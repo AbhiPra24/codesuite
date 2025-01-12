@@ -22,5 +22,5 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/devtools-hub.git
-   cd devtools-hub
+   git clone https://github.com/AbhiPra24/codesuite.git
+   cd codesuite
